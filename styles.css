@@ -1,0 +1,28 @@
+* {
+    background-color: teal;
+}
+
+.header {
+    color: bisque;
+    text-align: center;
+    font-size: 80px;
+}
+
+.list {
+    color: white;
+    text-align: center;
+    list-style-type: none;
+}
+
+#button {
+    font-size: 50px;
+    border-style: solid;
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+}
+
+li {
+    margin: 40px;
+}
